@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost/venoda_service",
+  "jwtSecret": "venoda_secret_token"
+}
